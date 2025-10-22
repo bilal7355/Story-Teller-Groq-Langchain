@@ -46,8 +46,8 @@ The project demonstrates how to:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/story-generator-chatbot.git
-cd story-generator-chatbot
+git clone https://github.com/your-username/Story-Teller-Groq-Langchain.git
+cd Story-Teller-Groq-Langchain
 ```
 
 ### 2. Create a virtual environment
@@ -93,13 +93,6 @@ python-dotenv
 langchain
 langchain-core
 langchain-groq
-```
-
-Optional dependencies:
-
-```
-tiktoken
-requests
 ```
 
 ---
